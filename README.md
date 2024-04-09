@@ -12,3 +12,17 @@ I'm Ivan Kulikovskyi, a frontend developer based in Lviv, Ukraine.
 - ⚡ Fun fact: JavaScript is like a Swiss Army knife for web development – it can do almost anything, but sometimes you end up accidentally cutting yourself. 😄
 
 Feel free to reach out if you have any questions or just want to connect!
+
+- My Projects:
+  
+[Admin Dashboard for Catalog Web App](https://backend-admin-r0ygyngea-ivans-projects-f58eda5e.vercel.app/)
+Description: This project is an admin dashboard for Catalog App built using React, Express.js, and PostgreSQL. It provides an interface for managing backend data and operations.
+
+[Catalog Web App](https://fe-nov23-nopyton.github.io/catalog/home)
+Description: A catalog web application developed with React. It allows users to browse and explore various items or products within different categories.
+
+[Landing Page layout](https://avakiel.github.io/layout_landing-page/)
+Description: This project is a landing page layout designed and implemented using HTML, CSS. It showcases a specific product or service with an appealing visual layout.
+
+[Web page for business](https://avakiel.github.io/smart_orange_test-task/)
+Description: This project is a web page designed and implemented using React, TS, SCSS. Responsive information page.
