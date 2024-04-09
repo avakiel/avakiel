@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**avakiel/avakiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ivan Kulikovskyi, a frontend developer based in Lviv, Ukraine.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on projects involving React, Express.js, and PostgreSQL.
+- 🌱 I’m currently learning React Native and Next.js to expand my skills.
+- 💬 Ask me about anything related to JavaScript or React.
+- 📫 How to reach me: 
+  - Email: kulikovskyi.ivan@gmail.com
+  - Telegram: [@Ivan9970](https://t.me/Ivan9970)
+  - LinkedIn: [Ivan Kulikovskyi](https://www.linkedin.com/in/ivan-kulikovskyi-6a86b7102/)
+- ⚡ Fun fact: JavaScript is like a Swiss Army knife for web development – it can do almost anything, but sometimes you end up accidentally cutting yourself. 😄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to reach out if you have any questions or just want to connect!
