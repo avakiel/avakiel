@@ -15,7 +15,10 @@ Feel free to reach out if you have any questions or just want to connect!
 
 - My Projects:
   
-[Admin Dashboard for Catalog Web App](https://backend--f58eda5e.vercel.app/)
+[Movie Catalog App](https://avakiel.github.io/movie_list/)
+Description: Feel free to edit, delete, add and collect your favorite movies. Built on React, Express.js([Movie Catalog Server](https://github.com/avakiel/movie_list_backend)), PostgreSQL.
+
+[Admin Dashboard for Catalog Web App](https://backend-admin-eight.vercel.app/)
 Description: This project is an admin dashboard for Catalog App built using React, Express.js, and PostgreSQL. It provides an interface for managing backend data and operations.
 
 [Catalog Web App](https://fe-nov23-nopyton.github.io/catalog)
