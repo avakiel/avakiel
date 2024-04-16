@@ -19,7 +19,7 @@ Feel free to reach out if you have any questions or just want to connect!
 Description: Feel free to edit, delete, add and collect your favorite movies. Built on React, Express.js([Movie Catalog Server](https://github.com/avakiel/movie_list_backend)), PostgreSQL.
 
 [Admin Dashboard for Catalog Web App](https://backend-admin-eight.vercel.app/)
-Description: This project is an admin dashboard for Catalog App built using React, Express.js, and PostgreSQL. It provides an interface for managing backend data and operations.
+Description: This project is an admin dashboard for Catalog App built using Next.js, and PostgreSQL. It provides an interface for managing backend data and operations, backend for [Catalog Web App](https://fe-nov23-nopyton.github.io/catalog).
 
 [Catalog Web App](https://fe-nov23-nopyton.github.io/catalog)
 Description: A catalog web application developed with React. It allows users to browse and explore various items or products within different categories.
