@@ -30,6 +30,11 @@ Description: This project is an admin dashboard for Catalog App built using Next
 Description: This is backend on Nest.js for my project on Next.js. At this moment, there is standart set of CRUD operations and its connected to a remote database.
 ----------------------------------------------------------------
 
+[Movie_List_Express.js_backend](https://github.com/avakiel/movie_list_backend)
+
+Description: This is backend on Express.js for [Movie Catalog App](https://avakiel.github.io/movie_list/). Deployed and working on Render.com
+----------------------------------------------------------------
+
 [Catalog Web App](https://fe-nov23-nopyton.github.io/catalog)
 
 Description: A catalog web application developed with React. It allows users to browse and explore various items or products within different categories.
