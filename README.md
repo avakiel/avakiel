@@ -42,4 +42,5 @@ Description: This project is a landing page layout designed and implemented usin
 
 [Web page for business](https://avakiel.github.io/smart_orange_test-task/)
 
-**Description: This project is a web page designed and implemented using React, TS, SCSS. Responsive information page.**
+Description: This project is a web page designed and implemented using React, TS, SCSS. Responsive information page.
+----------------------------------------------------------------
