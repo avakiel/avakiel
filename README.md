@@ -25,6 +25,11 @@ Description: Feel free to edit, delete, add and collect your favorite movies. Bu
 Description: This project is an admin dashboard for Catalog App built using Next.js, and PostgreSQL. It provides an interface for managing backend data and operations, backend for [Catalog Web App](https://fe-nov23-nopyton.github.io/catalog).
 ----------------------------------------------------------------
 
+[Movie_Catalog_Nest.js_backend](https://github.com/avakiel/movie_catalog_nest)
+
+Description: This is backend on Nest.js for my project on Next.js. At this moment, there is standart set of CRUD operations and its connected to a remote database.
+----------------------------------------------------------------
+
 [Catalog Web App](https://fe-nov23-nopyton.github.io/catalog)
 
 Description: A catalog web application developed with React. It allows users to browse and explore various items or products within different categories.
@@ -37,4 +42,4 @@ Description: This project is a landing page layout designed and implemented usin
 
 [Web page for business](https://avakiel.github.io/smart_orange_test-task/)
 
-Description: This project is a web page designed and implemented using React, TS, SCSS. Responsive information page.
+**Description: This project is a web page designed and implemented using React, TS, SCSS. Responsive information page.**
