@@ -3,7 +3,7 @@
 I'm Ivan Kulikovskyi, a frontend developer based in Lviv, Ukraine.
 
 - 🔭 I’m currently working on projects involving React, Express.js, and PostgreSQL.
-- 🌱 I’m currently learning React Native and Next.js to expand my skills.
+- 🌱 I’m currently learning React Native, Next.js, Nest.js and different ORM to expand my skills.
 - 💬 Ask me about anything related to JavaScript or React.
 - 📫 How to reach me: 
   - Email: kulikovskyi.ivan@gmail.com
