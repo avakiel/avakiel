@@ -17,7 +17,7 @@ Feel free to reach out if you have any questions or just want to connect!
 
 [Github Kanban Board](https://incode-kanban-hd0uyndx6-ivans-projects-f58eda5e.vercel.app/)
 
-Description: GitHub repo issues viewer as a kanban board. Build on React/Redux and uses SessionStorage.
+Description: GitHub repo issues viewer as a kanban board. Build on React/Redux and uses SessionStorage. Works with such requests: 'https://github.com/facebook/react'
 ----------------------------------------------------------------
   
 [Movie Catalog App](https://avakiel.github.io/movie_list/)
